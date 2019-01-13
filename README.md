@@ -1,2 +1,3 @@
 # 100_Days_of_Machine_Learning
-## hhi 
+## Day1 : 
+    Learned about Numpy
