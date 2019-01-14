@@ -4,4 +4,4 @@
 ## Day2 :
     Learned Matplotlib
 ## Day3 :
-    Learned more about Matplotlib
+    Learned more Matplotlib
