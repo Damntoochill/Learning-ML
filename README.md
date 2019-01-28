@@ -21,3 +21,8 @@
 **Today's Progress** : Learned Logistic Regression and implemented it to solve [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) problem on Kaggle.
 
 **Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Logistic_Regression.ipynb)
+
+## Day 4 : January 28, 2019
+
+**Today's Progress** : Learned about data imputation and linear regression. Did a project on BigMart sales prediction. I used Linear Regression to predict the sales.
+ 
