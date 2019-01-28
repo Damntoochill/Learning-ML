@@ -26,3 +26,4 @@
 
 **Today's Progress** : Learned about data imputation and linear regression. Did a project on BigMart sales prediction. I used Linear Regression to predict the sales.
  
+**Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Bigmart_Sales_Predictions.ipynb)
