@@ -24,6 +24,6 @@
 
 ## Day 4 : January 28, 2019
 
-**Today's Progress** : Learned about data imputation and linear regression. Did a project on BigMart sales prediction. I used Linear Regression to predict the sales. And learned about data imputation.
+**Today's Progress** : Learned about data imputation and linear regression. Did a project on BigMart sales prediction. I used Linear Regression to predict the sales. And learned about data imputation. I took the project from this [link](https://www.dezyre.com/project-use-case/predict-big-mart-sales)
  
 **Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Bigmart_Sales_Predictions.ipynb)
