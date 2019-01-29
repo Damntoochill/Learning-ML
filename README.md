@@ -27,3 +27,9 @@
 **Today's Progress** : Learned about data imputation and linear regression. Did a project on BigMart sales prediction. I used Linear Regression to predict the sales. And learned about data imputation. I took the project from this [link](https://www.dezyre.com/project-use-case/predict-big-mart-sales)
  
 **Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Bigmart_Sales_Predictions.ipynb)
+
+## Day 5 : January 19, 2019
+
+**Today's Progress** : Did a project on twitter sentiment analysis. Learned how to process the strigs inside the dataset. Got the project from [here](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) but didn't use the same dataset.
+
+**Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Numpy.ipynb)
