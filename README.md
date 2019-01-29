@@ -32,4 +32,4 @@
 
 **Today's Progress** : Did a project on twitter sentiment analysis. Learned how to process the strigs inside the dataset. Got the project from [here](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) but didn't use the same dataset.
 
-**Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Numpy.ipynb)
+**Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Twitter_Sentiment_Analysis_1.ipynb)
