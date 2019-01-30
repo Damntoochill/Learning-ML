@@ -30,6 +30,6 @@
 
 ## Day 5 : January 29, 2019
 
-**Today's Progress** : Did a project on twitter sentiment analysis. Learned how to process the strigs inside the dataset. Got the project from [here](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) but didn't use the same dataset.
+**Today's Progress** : Did a project on twitter sentiment analysis. Learned how to process the strigs inside the dataset. Got the project from [here](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) but didn't use the same dataset. But I could't complete the entire analysis. So I will do it again tomorrow.
 
 **Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Twitter_Sentiment_Analysis_1.ipynb)
