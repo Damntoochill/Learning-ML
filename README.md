@@ -38,7 +38,7 @@
 
 **Today's Progress** : Tried to do twitter sentiment analysis again but couldn't complete due to some unkonown errors. [Here](https://github.com/GopiMindgloer/Learning-ML/blob/master/Twitter_Sentiment_Analysis_2.ipynb) is the link to the failed work.
 
-**Link of Work:**   [Commit]()
+**Link of Work:**   [Commit](https://github.com/GopiMindgloer/Learning-ML/blob/master/Twitter_Sentiment_Analysis_2.ipynb)
 
 ## Day 7 : January 31, 2019
 
