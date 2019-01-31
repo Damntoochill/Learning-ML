@@ -39,3 +39,9 @@
 **Today's Progress** : Tried to do twitter sentiment analysis again but couldn't complete due to some unkonown errors. [Here](https://github.com/GopiMindgloer/Learning-ML/blob/master/Twitter_Sentiment_Analysis_2.ipynb) is the link to the failed work.
 
 **Link of Work:**   [Commit]()
+
+## Day 7 : January 31, 2019
+
+**Today's Progress** : Learnt how to deal with time series. Tried to do a project on air passengers prediction using ARIMA. But couldn't complete. I will continue with the same tomorrow. 
+
+**Link of work** : [Commit](https://github.com/GopiMindgloer/Learning-ML/blob/master/Air_Passengers_Prediction.ipynb)
