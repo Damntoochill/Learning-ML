@@ -45,3 +45,5 @@
 **Today's Progress** : Learnt how to deal with time series. Tried to do a project on air passengers prediction using ARIMA. But couldn't complete. I will continue with the same tomorrow. I got the project from this [link](https://www.kaggle.com/freespirit08/time-series-for-beginners-with-arima) and tried to learn the process.
 
 **Link of work** : [Commit](https://github.com/GopiMindgloer/Learning-ML/blob/master/Air_Passengers_Prediction.ipynb)
+    
+    I also created a jupiter notebook template which tells you what are the steps to be done during a text analysis. Here's the [link](https://github.com/GopiMindgloer/Learning-ML/blob/master/Text_Analysis_Template.ipynb)
