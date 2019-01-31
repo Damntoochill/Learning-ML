@@ -46,4 +46,4 @@
 
 **Link of work** : [Commit](https://github.com/GopiMindgloer/Learning-ML/blob/master/Air_Passengers_Prediction.ipynb)
     
-    I also created a jupiter notebook template which tells you what are the steps to be done during a text analysis. Here's the [link](https://github.com/GopiMindgloer/Learning-ML/blob/master/Text_Analysis_Template.ipynb)
+   I also created a jupiter notebook template which tells you what are the steps to be done during a text analysis. Here's the [link](https://github.com/GopiMindgloer/Learning-ML/blob/master/Text_Analysis_Template.ipynb)
