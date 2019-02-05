@@ -52,4 +52,8 @@
 
 **Today's Progress** : Completed the time series analysis using ARIMA model.
 
-**Link of Work** : (Commit)[https://github.com/GopiMindgloer/Learning-ML/blob/master/Air_Passengers_Prediction.ipynb]
+**Link of Work** : [Commit](https://github.com/GopiMindgloer/Learning-ML/blob/master/Air_Passengers_Prediction.ipynb)
+
+## Day 9 : February 3, 2019
+
+**Today's Progress** : 
