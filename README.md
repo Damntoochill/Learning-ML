@@ -56,4 +56,6 @@
 
 ## Day 9 : February 3, 2019
 
-**Today's Progress** : 
+**Today's Progress** : Tried to do iris flower classification using keras but failed.
+
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Iris_classifier_using_Keras.ipynb)
