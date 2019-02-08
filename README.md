@@ -59,3 +59,9 @@
 **Today's Progress** : Tried to do iris flower classification using keras but failed.
 
 **Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Iris_classifier_using_Keras.ipynb)
+
+## Day 10 : February 4, 2019
+
+**Today's Progress** : Learned how to download stock market data using nsepy and did some basic EDA. Couldn't do much :(
+
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Algorithmic_Trading_1.ipynb)
