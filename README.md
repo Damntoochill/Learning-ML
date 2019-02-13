@@ -65,3 +65,9 @@
 **Today's Progress** : Learned how to download stock market data using nsepy and did some basic EDA. Couldn't do much :(
 
 **Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Algorithmic_Trading_1.ipynb)
+
+## Day 11 : February 13, 2019
+
+**Today's Progress** : Tried to do [House Price Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) but the dataset was too big so I couldn't even do a perfect EDA.
+
+**Link of Work** : [Commit]()
