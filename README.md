@@ -70,4 +70,4 @@
 
 **Today's Progress** : Tried to do [House Price Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) but the dataset was too big so I couldn't even do a perfect EDA.
 
-**Link of Work** : [Commit]()
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/House_Price_Prediction.ipynb)
