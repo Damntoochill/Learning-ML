@@ -77,3 +77,9 @@
 **Today's Progress** : Learned about different time series forecasting models. And tests for checking the stationarity of a time series.
 
 **Link of Work** : [commit](https://github.com/Damntoochill/Learning-ML/blob/master/Statistics/stationarity.ipynb)
+
+## Day 13 : February 16, 2019
+
+**Today's Progress** : Tried to predict shampoo sales using ARIMA. I wasn't successfull but still learned a lot.
+
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Shampoo_sales_Prediction.ipynb)
