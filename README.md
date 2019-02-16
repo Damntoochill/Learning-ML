@@ -71,3 +71,9 @@
 **Today's Progress** : Tried to do [House Price Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) but the dataset was too big so I couldn't even do a perfect EDA.
 
 **Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/House_Price_Prediction.ipynb)
+
+## Day 12 : February 15, 2019 
+
+**Today's Progress** : Learned about different time series forecasting models. And tests for checking the stationarity of a time series.
+
+**Link of Work** : [commit](https://github.com/Damntoochill/Learning-ML/blob/master/Statistics/stationarity.ipynb)
