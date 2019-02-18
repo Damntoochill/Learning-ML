@@ -83,3 +83,8 @@
 **Today's Progress** : Tried to predict shampoo sales using ARIMA. I wasn't successfull but still learned a lot.
 
 **Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Shampoo_sales_Prediction.ipynb)
+
+## Day 14 : February 17. 2019
+
+**Today's progress** : Learned about Auto ARIMA.
+
