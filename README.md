@@ -89,3 +89,7 @@
 **Today's progress** : Learned about Auto ARIMA.
 
 **Link of Work** : 
+
+## Day 15 : February 18, 2019
+
+**Today's Progress** : Learned Convolutional Neural Network and implemented it using Keras on MNIST dataset.
