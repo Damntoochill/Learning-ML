@@ -98,4 +98,4 @@
 
 ## Day 16 : February 19, 2019
 
-**Today's Progress** : Started a machine learning course in coursera. Learned about Linear Regression algorithm, cost function ad gradient descent.
+**Today's Progress** : Started a machine learning course in coursera. Learned about Linear Regression algorithm, cost function and gradient descent.
