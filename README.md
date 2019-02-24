@@ -95,3 +95,7 @@
 **Today's Progress** : Learned Convolutional Neural Network and implemented it using Keras on MNIST dataset.
 
 **Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/CNN_1.ipynb)
+
+## Day 16 : February 19, 2019
+
+**Today's Progress** : Started a machine learning course in coursera. Learned about Linear Regression algorithm, cost function 
