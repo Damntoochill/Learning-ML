@@ -105,3 +105,9 @@
 ## Day 16 : February 19, 2019
 
 **Today's Progress** : Started a machine learning course in coursera. Learned about Linear Regression algorithm, cost function and gradient descent.
+
+## Day 17 : February 20, 2019
+
+**Today's Progress** : Learned some basics about creating a model using Keras.
+
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Keras_1.ipynb)
