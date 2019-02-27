@@ -7,6 +7,7 @@
 ## Day 1 : December 29, 2018
 
 **Today's Progress** : Started reading the book **Hands on Machine Learning with Scikit Learn and Tensorflow** and finished the first chapter.
+
 ![handsonml](https://user-images.githubusercontent.com/15047674/53490383-95e9d080-3ab9-11e9-867e-4e1c7cca0bc9.jpg)
 
 ## Day 1 : January 10, 2019
