@@ -28,9 +28,15 @@
 
 ## Day 6 : January 3, 2019
 
+**Today's Progress** : Finished the second lecture **CASE STUDY: CHURN PREDICTION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 7 : January 4, 2019
 
+**Today's Progress** : Finished the third lecture **INTRODUCTION TO STATISTICAL LEARNING THEORY** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 8 : January 5, 2019
+
+**Today's Progress** : Finished the fourth lecture **STOCHASTIC GRADIENT DESCENT** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 9 : January 6, 2019
 
