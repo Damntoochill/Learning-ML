@@ -10,7 +10,15 @@
 
 ![handsonml](https://user-images.githubusercontent.com/15047674/53490383-95e9d080-3ab9-11e9-867e-4e1c7cca0bc9.jpg)
 
-## Day 1 : January 10, 2019
+## Day 2 : December 29, 2018
+
+**Today's Progress** : Learned Exploratory Data Analysis(EDA) from [here](www.appliedaicourse.com)
+
+## Day 3 : December 30, 2018
+
+**Today's Progress** : Learned about Dimensionality Reduction and Visualization from [appliedaicourse.com](www.appliedaicourse.com)
+
+## Day 2 : January 10, 2019
 
 **Today's Progress** : Learned the basics of Numpy .
 
