@@ -40,43 +40,71 @@
 
 ## Day 9 : January 6, 2019
 
+**Today's Progress** : Finished the fifth lecture **EXCESS RISK DECOMPOSITION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 10 : January 7, 2019
+
+**Today's Progress** : Finished the sixth lecture **L1 AND L2 REGULARIZATION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 11 : January 8, 2019
 
+**Today's Progress** : Finished the seventh lecture **LASSO, RIDGE AND ELASTIC NET** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 12 : January 9, 2019
+
+**Today's Progress** : Finished the eigth lecture **LOSS FUNCTIONS FOR REGRESSION AND CLASSIFICATION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 13 : January 10, 2019
 
-**Today's Progress** : Learned the basics of Numpy .
+**Today's Progress** : Learned the basics of Numpy.  And also finished the ninth lecture **LAGRANGIAN DUALITY AND CONVEX OPTIMIZATION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 **Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Numpy.ipynb)
 
 ## Day 14 : January 11, 2019
 
+**Today's Progress** : Finished the tenth lecture **SUPPORT VECTOR MACHINES** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 15 : January 12, 2019
+
+**Today's Progress** : Finished the eleventh lecture **SUBGRADIENT DESCENT** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 16 : January 13, 2019
 
-**Today's Progress** : Learned the basics of matplotlib and implemented them.
+**Today's Progress** : Finished the twelfth lecture **FEATURE EXTRACTION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home). And also learned the basics of matplotlib and implemented them.
 
 **Link of Work:**  [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Matplotlib.ipynb)
 
 ## Day 17 : January 14, 2019
 
+**Today's Progress** : Finished the thirteenth lecture **KERNAL METHODS** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 18 : January 15, 2019
+
+**Today's Progress** : Finished the fourteenth lecture **PERFORMANCE EVALUATION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 19 : January 16, 2019
 
+**Today's Progress** : Finished the fifteenth lecture **"CITYSENSE": PROBABILISTIC MODELING FOR UNUSUAL BEHAVIOR DETECTION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 20 : January 17, 2019
+
+**Today's Progress** : Finished the sixteenth lecture **MAXIMUM LIKELIHOOD ESTIMATION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 21 : January 18, 2019
 
+**Today's Progress** : Finished the seventeenth lecture **CONDITIONAL PROBABILITY MODELS** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 22 : January 19, 2019
+
+**Today's Progress** : Finished the eighteenth lecture **BAYESIAN METHODS** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 23 : January 20, 2019
 
+**Today's Progress** : Finished the nineteenth lecture **BAYESIAN CONDITIONAL PROBABILITY MODELS** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 24 : January 21, 2019
+
+**Today's Progress** : Finished the twentieth lecture **REGRESSION AND CLASSIFICATION TREES** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 25 : January 22, 2019
 
@@ -86,17 +114,27 @@
 
 ## Day 26 : January 23, 2019
 
+**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 27 : January 24, 2019
+
+**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 28 : January 25, 2019
 
+**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 29 : January 26, 2019
+
+**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 30 : January 27, 2019
 
+**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 31 : January 28, 2019
 
-**Today's Progress** : Learned about data imputation and linear regression. Did a project on BigMart sales prediction. I used Linear Regression to predict the sales. And learned about data imputation. I took the project from this [link](https://www.dezyre.com/project-use-case/predict-big-mart-sales)
+**Today's Progress** : Did a project on BigMart sales prediction. I used Linear Regression to predict the sales. And learned about data imputation. I took the project from this [link](https://www.dezyre.com/project-use-case/predict-big-mart-sales)
  
 **Link of Work:**   [Commit](https://github.com/GopiMindgloer/Machine_Learning/blob/master/Bigmart_Sales_Predictions.ipynb)
 
