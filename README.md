@@ -114,23 +114,23 @@
 
 ## Day 26 : January 23, 2019
 
-**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+**Today's Progress** : Finished the twenty first lecture **BASIC STATISTICS AND A BIT OF BOOTSTRAP** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 27 : January 24, 2019
 
-**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+**Today's Progress** : Finished the twenty second lecture **BAGGING AND RANDOM FORESTS** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 28 : January 25, 2019
 
-**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+**Today's Progress** : Finished the twenty tird lecture **GRADIENT BOOSTING** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 29 : January 26, 2019
 
-**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+**Today's Progress** : Finished the twenty fourth lecture **MULTICLASS AND INTRODUCTION TO INSTRUCTURED PREDICTION** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 30 : January 27, 2019
 
-**Today's Progress** : Finished the twenty first lecture **** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+**Today's Progress** : Finished the twenty fifth lecture **K-MEANS CLUSTERING** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 31 : January 28, 2019
 
@@ -166,21 +166,27 @@
 
 ## Day 36 : February 2, 2019
 
+**Today's Progress** : Finished the twenty sixth lecture **GAUSSIAN MIXTURE MODELS** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 37 : February 3, 2019
 
-**Today's Progress** : Tried to do iris flower classification using keras but failed.
+**Today's Progress** : Tried to do iris flower classification using keras but failed. And finished the twenty seventh lecture **EM ALGORITHM FOR LATENT VARIABLE MODELS** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 **Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Iris_classifier_using_Keras.ipynb)
 
 ## Day 38 : February 4, 2019
 
-**Today's Progress** : Learned how to download stock market data using nsepy and did some basic EDA. Couldn't do much :(
+**Today's Progress** : Finished the twenty eigth lecture **NEURAL NETWORKS** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home). And learned how to download stock market data using nsepy and did some basic EDA. Couldn't do much :(
 
 **Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Algorithmic_Trading_1.ipynb)
 
 ## Day 39 : February 5, 2019
 
+**Today's Progress** : Finished the twenty ninth lecture **BACK PROPAGATION AND CHAIN RULE** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
+
 ## Day 40 : February 6, 2019
+
+**Today's Progress** : Finished the last lecture **NEXT STEPS** in the [Bloomberg Machine Learning Course](https://bloomberg.github.io/foml/#home).
 
 ## Day 41 : February 7, 2019
 
