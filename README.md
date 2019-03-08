@@ -194,13 +194,23 @@
 
 ## Day 42 : February 8, 2019
 
+**Today's Progress** : Started a new course on **Neural Networks and Deep Learning** at [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning) and finished the introduction part.
+
 ## Day 43 : February 9, 2019
+
+**Today's Progress** : Watched the lectures in the **Neural Networks and Deep Learning** course.
 
 ## Day 44 : February 10, 2019
 
+**Today's Progress** : Watched the lectures in the **Neural Networks and Deep Learning** course.
+
 ## Day 45 : February 11, 2019
 
+**Today's Progress** : Watched the lectures in the **Neural Networks and Deep Learning** course.
+
 ## Day 46 : February 12, 2019
+
+**Today's Progress** : Watched the lectures in the **Neural Networks and Deep Learning** course and finished the second week of the program.
 
 ## Day 47 : February 13, 2019
 
