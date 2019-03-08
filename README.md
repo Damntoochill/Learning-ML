@@ -228,16 +228,52 @@
 
 ## Day 52 : February 18, 2019
 
+**Today's Progress** : Learned some basics about keras model and created a simple neural network.
+
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Keras_1.ipynb)
+
+## Day 53 : February 19, 2019
+
+**Today's Progress** : Started a machine learning course in coursera. Learned in-depth about Linear Regression algorithm, cost function and gradient descent.
+
+## Day 54 : February 20, 2019
+
 **Today's Progress** : Learned Convolutional Neural Network and implemented it using Keras on MNIST dataset.
 
 **Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/CNN_1.ipynb)
 
-## Day 53 : February 19, 2019
+## Day 55 : February 21, 2019
 
-**Today's Progress** : Started a machine learning course in coursera. Learned about Linear Regression algorithm, cost function and gradient descent.
+**Today's Progress** : Started reading the book **Deep Learning with Keras** by **Antonio Gulli** and **Sujit Pal**. 
 
-## Day 54 : February 20, 2019
+## Day 56 : February 22, 2019
 
-**Today's Progress** : Learned some basics about creating a model using Keras.
+## Day 57 : February 23, 2019
 
-**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Keras_1.ipynb)
+## Day 58 : February 24, 2019
+
+## Day 59 : February 20, 2019
+
+## Day 60 : February 20, 2019
+
+## Day 61 : February 20, 2019
+
+## Day 62 : February 20, 2019
+
+## Day 63 : February 20, 2019
+
+## Day 64 : February 20, 2019
+
+## Day 65 : February 20, 2019
+
+## Day 66 : February 20, 2019
+
+## Day 67 : February 20, 2019
+
+## Day 68 : February 20, 2019
+
+## Day 69 : February 20, 2019
+
+## Day 70 : February 20, 2019
+
+## Day 71 : February 20, 2019
