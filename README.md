@@ -190,6 +190,8 @@
 
 ## Day 41 : February 7, 2019
 
+**Today's Progress** : Finished reading the second chapter in the book **Hands on Machine Learning with Scikit Learn and Tensorflow** and implemented the code.
+
 ## Day 42 : February 8, 2019
 
 ## Day 43 : February 9, 2019
@@ -244,7 +246,8 @@
 
 ## Day 55 : February 21, 2019
 
-**Today's Progress** : Started reading the book **Deep Learning with Keras** by **Antonio Gulli** and **Sujit Pal**. 
+**Today's Progress** : Started reading the book **Deep Learning with Keras** by **Antonio Gulli** and **Sujit Pal** and finished the first chapter. 
+
  ![image](https://user-images.githubusercontent.com/15047674/54049932-f4bef080-4203-11e9-90c3-6adb1af65d7f.png)
 
 ## Day 56 : February 22, 2019
@@ -253,28 +256,28 @@
 
 ## Day 58 : February 24, 2019
 
-## Day 59 : February 20, 2019
+## Day 59 : February 25, 2019
 
-## Day 60 : February 20, 2019
+## Day 60 : February 26, 2019
 
-## Day 61 : February 20, 2019
+## Day 61 : February 27, 2019
 
-## Day 62 : February 20, 2019
+## Day 62 : February 28, 2019
 
-## Day 63 : February 20, 2019
+## Day 63 : March 1, 2019
 
-## Day 64 : February 20, 2019
+## Day 64 : March 2, 2019
 
-## Day 65 : February 20, 2019
+## Day 65 : March 3, 2019
 
-## Day 66 : February 20, 2019
+## Day 66 : March 5, 2019
 
-## Day 67 : February 20, 2019
+## Day 67 : March 6, 2019
 
-## Day 68 : February 20, 2019
+## Day 68 : March 7, 2019
 
-## Day 69 : February 20, 2019
+## Day 69 : March 8, 2019
 
-## Day 70 : February 20, 2019
+## Day 70 : March 9, 2019
 
-## Day 71 : February 20, 2019
+## Day 71 : March 10, 2019
