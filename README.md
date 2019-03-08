@@ -245,7 +245,7 @@
 ## Day 55 : February 21, 2019
 
 **Today's Progress** : Started reading the book **Deep Learning with Keras** by **Antonio Gulli** and **Sujit Pal**. 
-![image](https://user-images.githubusercontent.com/15047674/54049751-664a6f00-4203-11e9-82cd-3ff2f67c0dc2.png)
+![image](https://user-images.githubusercontent.com/15047674/54049814-a27dcf80-4203-11e9-88b5-0a59d992b9d9.png)
 
 ## Day 56 : February 22, 2019
 
