@@ -280,14 +280,18 @@
 
 ## Day 65 : March 3, 2019
 
-## Day 66 : March 5, 2019
+## Day 66 : March 4, 2019
 
-## Day 67 : March 6, 2019
+**Today's Progress** : Found a project on [Medium](https://blog.gofynd.com/machine-learning-internship-challenge-2019-6b4e9dddb637). Downloaded the csv and began the project. Finished some rudimentary steps.
 
-## Day 68 : March 7, 2019
+## Day 67 : March 5, 2019
 
-## Day 69 : March 8, 2019
+## Day 68 : March 6, 2019
 
-## Day 70 : March 9, 2019
+## Day 69 : March 7, 2019
+
+## Day 70 : March 8, 2019
+
+## Day 71 : March 9, 2019
 
 ## Day 71 : March 10, 2019
