@@ -264,7 +264,7 @@
 
 ## Day 56 : February 22, 2019
 
-**Today's Progress** : Started the third week in the **Neural Networks and Deep Learning** course. Watched some lectures.
+**Today's Progress** : Started the third week in the **Neural Networks and Deep Learning** course called the **Shallow Neural Network**. Watched some lectures.
 
 ## Day 57 : February 23, 2019
 
