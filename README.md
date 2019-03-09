@@ -220,6 +220,8 @@
 
 ## Day 48 : February 14, 2019
 
+**Today's Progress** : Completed the second weeek's assignment in the **Neural Networks and Deep Learning** course.
+
 ## Day 49 : February 15, 2019 
 
 **Today's Progress** : Learned about different time series forecasting models. And tests for checking the stationarity of a time series.
@@ -261,6 +263,8 @@
  ![image](https://user-images.githubusercontent.com/15047674/54049932-f4bef080-4203-11e9-90c3-6adb1af65d7f.png)
 
 ## Day 56 : February 22, 2019
+
+**Today's Progress** : Started the third week in the **Neural Networks and Deep Learning** course. Watched some lectures.
 
 ## Day 57 : February 23, 2019
 
