@@ -284,6 +284,8 @@
 
 **Today's Progress** : Found a project on [Medium](https://blog.gofynd.com/machine-learning-internship-challenge-2019-6b4e9dddb637). Downloaded the csv and began the project. Finished some rudimentary steps.
 
+**Link of Work** : [Commit](https://github.com/Damntoochill/Fynd_project)
+
 ## Day 67 : March 5, 2019
 
 ## Day 68 : March 6, 2019
