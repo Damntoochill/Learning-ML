@@ -268,6 +268,10 @@
 
 ## Day 57 : February 23, 2019
 
+**Today's Progress** : Watched some videos in the **Neural Networks and Deep Learning** course and wrote a function to implement a simple gradient descent.
+
+**Link of Work** : [Commit](https://gist.github.com/Damntoochill/e9391862dadaa82817bf2d51a68ecb21)
+
 ## Day 58 : February 24, 2019
 
 ## Day 59 : February 25, 2019
