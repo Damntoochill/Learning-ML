@@ -278,14 +278,24 @@
 
 ## Day 59 : February 25, 2019
 
+**Today's Progress** : Completed the assignment in the third week of the **Neural Networks and Deep Learning** course. In the assignment I learned to build a neural network from scratch.
+
 ## Day 60 : February 26, 2019
+
+**Today's Progress** : Started the fourth week in the **Neural Networks and Deep Learning** Course.
 
 ## Day 61 : February 27, 2019
 
+**Today's Progress** : Learned some basics about tensorflow architectue and how to create a neural network using tensorflow.
+
 ## Day 62 : February 28, 2019
+
+**Today's Progress** : Watched some videos in the **Neural Networks and Deep Learning** course and go some insights about implementing a deep neural network.
 
 ## Day 63 : March 1, 2019
 
+**Today's Progress** : Completed the fourth week lectures in the **Neural Networks and Deep Learning** course and tried to do the week's assignment but couldn't finish it.
+ 
 ## Day 64 : March 2, 2019
 
 ## Day 65 : March 3, 2019
