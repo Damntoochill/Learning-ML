@@ -274,6 +274,8 @@
 
 ## Day 58 : February 24, 2019
 
+**Today's Progress** : Completed all videos in the third week of **Neural Networks and Deep Learning** course.
+
 ## Day 59 : February 25, 2019
 
 ## Day 60 : February 26, 2019
