@@ -300,7 +300,7 @@
 
 **Today's Progress** : Finished the fourth week's assignment in the **Neural Networks and Deep Learning** course and also created a simple perceptron.
 
-**Link of Work** : [Commit]()
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Perceptron.py)
 
 ## Day 65 : March 3, 2019
 
