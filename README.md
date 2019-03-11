@@ -298,6 +298,10 @@
  
 ## Day 64 : March 2, 2019
 
+**Today's Progress** : Finished the fourth week's assignment in the **Neural Networks and Deep Learning** course and also created a simple perceptron.
+
+**Link of Work** : [Commit]()
+
 ## Day 65 : March 3, 2019
 
 ## Day 66 : March 4, 2019
