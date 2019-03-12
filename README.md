@@ -316,7 +316,15 @@
 
 ## Day 67 : March 5, 2019
 
+**Today's Progress** : Started reading the book **Learning Tensorflow** to understand and learn the basics of tensorflow. Finished the first two chapters.
+
+![image](https://user-images.githubusercontent.com/15047674/54176289-455c7500-44b4-11e9-9d87-6dd9d8935a5f.png)
+
 ## Day 68 : March 6, 2019
+
+**Today's Progress** : Completed the third chapter in the book **Learning Tensorflow**. Created a graph to to do linear regression using tensorflow.
+
+**Link of Work** : [Commit]()
 
 ## Day 69 : March 7, 2019
 
