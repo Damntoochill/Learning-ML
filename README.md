@@ -304,6 +304,10 @@
 
 ## Day 65 : March 3, 2019
 
+**Today's Progress** : Learned how to use keras with tensorflow. Created a simple digit classifier using tensorflow.keras module.
+
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Tensorflow_MNIST.ipynb)
+
 ## Day 66 : March 4, 2019
 
 **Today's Progress** : Found a project on [Medium](https://blog.gofynd.com/machine-learning-internship-challenge-2019-6b4e9dddb637). Downloaded the csv and began the project. Finished some rudimentary steps.
