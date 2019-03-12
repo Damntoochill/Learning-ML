@@ -324,7 +324,7 @@
 
 **Today's Progress** : Completed the third chapter in the book **Learning Tensorflow**. Created a graph to to do linear regression using tensorflow.
 
-**Link of Work** : [Commit]()
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/tf_Linear_Regression.ipynb)
 
 ## Day 69 : March 7, 2019
 
@@ -333,3 +333,7 @@
 ## Day 71 : March 9, 2019
 
 ## Day 71 : March 10, 2019
+
+## Day 72 : March 11, 2019
+
+## Day 73 : March 12, 2019 
