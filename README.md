@@ -336,7 +336,7 @@
 
 **Today's Progress** : Created a graph in tensorflow to compute logistic regression.
 
-**Link of Progress** : [Commit]()
+**Link of Progress** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Tensorflow_Logistic_Regression.ipynb)
 
 ## Day 71 : March 9, 2019
 
