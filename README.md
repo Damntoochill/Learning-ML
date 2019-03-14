@@ -330,13 +330,13 @@
 
 **Today's Progress** : Created a support Vector Machine from scratch.
 
-**Works of Progress** : 
+**Link of Work** : [commit]()
 
 ## Day 70 : March 8, 2019
 
 **Today's Progress** : Created a graph in tensorflow to compute logistic regression.
 
-**Work of Progress**
+**Link of Progress** : [Commit]()
 
 ## Day 71 : March 9, 2019
 
@@ -345,3 +345,7 @@
 ## Day 72 : March 11, 2019
 
 ## Day 73 : March 12, 2019 
+
+## Day 74 : March 13, 2019
+
+## Day 75 : March 14, 2019
