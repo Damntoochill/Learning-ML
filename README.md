@@ -352,8 +352,11 @@
 
 ## Day 73 : March 12, 2019 
 
+**Today's Progress** : Completed the first week assignment in the course **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**.
+
 ## Day 74 : March 13, 2019
 
 ## Day 75 : March 14, 2019
 
+## Day 76 : March 15, 2019
 
