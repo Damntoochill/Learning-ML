@@ -194,7 +194,7 @@
 
 ## Day 42 : February 8, 2019
 
-**Today's Progress** : Started a new course on **Neural Networks and Deep Learning** at [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning) and finished the introduction part.
+**Today's Progress** : Started a new course on **Neural Networks and Deep Learning** in **Deep Learning Specialization** at [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning) and finished the introduction part.
 
 ## Day 43 : February 9, 2019
 
@@ -340,12 +340,20 @@
 
 ## Day 71 : March 9, 2019
 
+**Today's Progress** : Started the next course **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** in the **Deep learning Specialization** and watched some intro videos.
+
 ## Day 71 : March 10, 2019
 
+**Today's Progress** : Watched some videos in the first week of the course **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**.
+
 ## Day 72 : March 11, 2019
+
+**Today's Progress** : Finished all videos in the first week of the course **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**.
 
 ## Day 73 : March 12, 2019 
 
 ## Day 74 : March 13, 2019
 
 ## Day 75 : March 14, 2019
+
+
