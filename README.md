@@ -356,23 +356,31 @@
 
 ## Day 74 : March 13, 2019
 
-**Today's Progress** : Watched some videos in the second week of the course **mproving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**.
+**Today's Progress** : Watched some videos in the second week of the course **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**.
 
 ## Day 75 : March 14, 2019
 
-**Today's Progress** : Watched some videos in the second week of the course **mproving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**.
+**Today's Progress** : Watched some videos in the second week of the course **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**.
 
 ## Day 76 : March 15, 2019
 
-**Today's Progress** : Completed all videos in the second week of the course **mproving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**.
+**Today's Progress** : Completed all videos in the second week of the course **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**.
 
 ## Day 77 : March 16, 2019
 
+**Today's Progress** : Finished the second chapter in the book **Hands on Machine Learning using Tensorflow andd Scikit-Learn** and implemented the codes.
+
 ## Day 78 : March 17, 2019
+
+**Today's Progress** : Completed the second week assignment in the course **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**.
 
 ## Day 79 : March 18, 2019
 
+**Today's Progress** : Learned some basics about **Reinforcement Learning** from watching Youtube videos.
+
 ## Day 80 : March 19, 2019
+
+**Today's Progress** : 
 
 ## Day 81 : March 20, 2019
 
