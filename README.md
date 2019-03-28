@@ -380,7 +380,13 @@
 
 ## Day 80 : March 19, 2019
 
-**Today's Progress** : 
+**Today's Progress** : Revised all basic functionalities and applications of the **Pandas** library.
 
 ## Day 81 : March 20, 2019
+
+**Today's Progress** : Revised all the fundamental features of the library **Matplotlib**.
+
+## Day 82 : March 21, 2019
+
+**Today's Progress** : Revised all the basic machine learning algorithms and implementation codes.
 
