@@ -356,9 +356,15 @@
 
 ## Day 74 : March 13, 2019
 
+**Today's Progress** : Watched some videos in the second week of the course **mproving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**.
+
 ## Day 75 : March 14, 2019
 
+**Today's Progress** : Watched some videos in the second week of the course **mproving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**.
+
 ## Day 76 : March 15, 2019
+
+**Today's Progress** : Completed all videos in the second week of the course **mproving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**.
 
 ## Day 77 : March 16, 2019
 
