@@ -390,3 +390,23 @@
 
 **Today's Progress** : Revised all the basic machine learning algorithms and implementation codes.
 
+## Day 83 : March 22, 2019
+
+## Day 84 : March 23, 2019
+
+## Day 85 : March 24, 2019
+
+## Day 86 : March 25, 2019
+
+## Day 87 : March 26, 2019
+
+## Day 88 : March 27, 2019
+
+## Day 89 : March 28, 2019
+
+## Day 90 : March 29, 2019
+
+**Today's Progress** : Learned Extreme Gradient Boost(XGBoost) algorithm and implemented it to predict if a whether or not a patient has diabetes. I used XGBClassifier and got an accuracy of 79%. Didn't dive deep to increase the accuracy :(
+
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Diabetes_Prediction_using_XGBClassifier.ipynb)
+
