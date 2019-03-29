@@ -406,6 +406,10 @@
 
 ## Day 89 : March 28, 2019
 
+**Today's Progress** : Learned the basics of Natural Language Processing(NLP) and implemented the concepts to identify spooky authors from a kaggle dataset.
+
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Spooky_Author_Identification.ipynb)
+
 ## Day 90 : March 29, 2019
 
 **Today's Progress** : Learned Extreme Gradient Boost(XGBoost) algorithm and implemented it to predict if a whether or not a patient has diabetes. I used XGBClassifier and got an accuracy of 79%. Didn't dive deep to increase the accuracy :(
