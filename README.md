@@ -392,6 +392,8 @@
 
 ## Day 83 : March 22, 2019
 
+**Today's Progress** : Worked a little on the Fynd image classifier project. Didn't put in much work.
+
 ## Day 84 : March 23, 2019
 
 ## Day 85 : March 24, 2019
