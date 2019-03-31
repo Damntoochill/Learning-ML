@@ -396,7 +396,11 @@
 
 ## Day 84 : March 23, 2019
 
+**Today's Progress** : Started the third week video series in the course **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**.
+
 ## Day 85 : March 24, 2019
+
+**Today's Progress** : Watched some videos in the third week of the course **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**.
 
 ## Day 86 : March 25, 2019
 
