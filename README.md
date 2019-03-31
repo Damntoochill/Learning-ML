@@ -404,9 +404,15 @@
 
 ## Day 86 : March 25, 2019
 
+**Today's Progress** : Completed watching all the videos in the third week of the course **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**.
+
 ## Day 87 : March 26, 2019
 
+**Today's Progress** : Completed the third week assignment in the course **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**.
+
 ## Day 88 : March 27, 2019
+
+**Today's Progress** : Learned the basics of recommendation algorithms but couldn't implement them :(
 
 ## Day 89 : March 28, 2019
 
@@ -420,3 +426,10 @@
 
 **Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Diabetes_Prediction_using_XGBClassifier.ipynb)
 
+## Day 91 : March 30,2019
+
+## Day 92 : March 31,2019
+
+**Today's Progress** : Completed the Cats vs Dogs Kaggle Competition using VGG-16 convolutional neural network.
+
+**Link of Work** : [Commit]()
