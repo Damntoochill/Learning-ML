@@ -432,4 +432,4 @@
 
 **Today's Progress** : Completed the Cats vs Dogs Kaggle Competition using VGG-16 convolutional neural network.
 
-**Link of Work** : [Commit]()
+**Link of Work** : [Commit](https://github.com/Damntoochill/Learning-ML/blob/master/Cats_vs_Dogs_Classification.ipynb)
